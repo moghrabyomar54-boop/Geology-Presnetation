@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix LO6 Metamorphic Rocks Presentation",
+  "description": "Interactive 3D geology presentation covering Hornfels, Marble, Quartzite, petrographic thin-section microscopy (PPL/XPL), and metamorphic textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
